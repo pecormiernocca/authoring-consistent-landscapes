@@ -2,6 +2,8 @@
 
 This repository contains the source code of the paper: **Authoring Consistent Landscapes with Flora and Fauna**. Pierre Ecormier-Nocca, Guillaume Cordonnier, Philippe Carrez, Anne-Marie Moigne, Pooran Memari, Bedrich Benes, Marie-Paule Cani. ACM Transactions on Graphics, Association for Computing Machinery, 2021.
 
+![Representative image](resources/images/representative.jpg)
+
 ## Dependencies
 
 The code was tested on Ubuntu 20.04 LTS and Windows 10, but should also run on MacOSX without issues.
