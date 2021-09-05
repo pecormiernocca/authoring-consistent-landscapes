@@ -536,7 +536,6 @@ plt.tight_layout()
 plt.subplots_adjust(0.05, 0.05, 0.95, 0.95, 0.05, 0.05)
 plt.savefig(resource_path + "visu/animal_densities.png")
 
-sdlfkj
 
 ###############################################################################
 # Compute trail weights based on usage, animal count and weight
